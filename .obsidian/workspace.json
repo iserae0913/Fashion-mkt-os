@@ -20,8 +20,65 @@
               "icon": "lucide-file",
               "title": "Start"
             }
+          },
+          {
+            "id": "73342d8db45fb01b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Capture/2026-05-31｜Daily Capture.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-31｜Daily Capture.md"
+            }
+          },
+          {
+            "id": "3ba7cec5762f9c5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Capture/2026-W22｜Monday Reset.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-W22｜Monday Reset.md"
+            }
+          },
+          {
+            "id": "849be0b510eee39c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_Evergreen_Thesis_Bank/THESIS｜Chic 通勤.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "THESIS｜Chic 通勤.md"
+            }
+          },
+          {
+            "id": "e7f4f035bdf1a027",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_Evergreen_Thesis_Bank/THESIS｜财富显化／配得感.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "THESIS｜财富显化／配得感.md"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -94,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Capture/Start.md",
+                "file": "04_Evergreen_Thesis_Bank/THESIS｜财富显化／配得感.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Start 的反向链接列表"
+              "title": "THESIS｜财富显化／配得感.md 的反向链接列表"
             }
           },
           {
@@ -113,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Capture/Start.md",
+                "file": "04_Evergreen_Thesis_Bank/THESIS｜财富显化／配得感.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Start 的出链列表"
+              "title": "THESIS｜财富显化／配得感.md 的出链列表"
             }
           },
           {
@@ -156,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Capture/Start.md",
+                "file": "04_Evergreen_Thesis_Bank/THESIS｜财富显化／配得感.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Start 的大纲"
+              "title": "THESIS｜财富显化／配得感.md 的大纲"
             }
           },
           {
@@ -196,6 +253,11 @@
   },
   "active": "b0535ec1f9f52105",
   "lastOpenFiles": [
+    "04_Evergreen_Thesis_Bank/THESIS｜Chic 通勤.md.md",
+    "04_Evergreen_Thesis_Bank/THESIS｜财富显化／配得感.md.md",
+    "01_Capture/2026-W22｜Monday Reset.md.md",
+    "01_Capture/2026-05-31｜Daily Capture.md.md",
+    "01_Capture/Start.md",
     "06_Templates/TPL｜Thesis Card.md",
     "06_Templates/TPL｜Monday Reset.md",
     "06_Templates/TPL｜Daily Capture.md",
